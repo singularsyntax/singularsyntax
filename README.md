@@ -1,5 +1,5 @@
 ## sin·gu·lar ~ syn·tax
-### a universal grammar ~ homoiconicity ~ a universal machine
+a universal grammar ~ homoiconicity ~ a universal machine
 
 <!--
 **singularsyntax/singularsyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
